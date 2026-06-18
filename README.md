@@ -4,19 +4,19 @@
 
 Este es un proyecto con proposito académico, en el se encuentran diversos ejercicios de Programación Orientada a Objetos. Se encuentran divididos por carpetas con la siguiente estructura
 
-./
-│
-├── README.md
-├── Actividad1/
-│   └── (archivos de Actividad 1)
-├── Actividad2/
-│   └── (archivos de Actividad 2)
-├── Actividad3/
-│   └── (archivos de Actividad 3)
-├── Actividad4/
-│   └── (archivos de Actividad 4)
-└── Actividad5/
-    └── (archivos de Actividad 5)
+./<br/>
+│<br/>
+├── README.md<br/>
+├── Actividad1/<br/>
+│		└── (archivos de Actividad 1)<br/>
+├── Actividad2/<br/>
+│		└── (archivos de Actividad 2)<br/>
+├── Actividad3/<br/>
+│   	└── (archivos de Actividad 3)<br/>
+├── Actividad4/<br/>
+│   	└── (archivos de Actividad 4)<br/>
+└── Actividad5/<br/>
+|    	└── (archivos de Actividad 5)<br/>
 
 Cada directorio es un proyecto de Java y se compila con el uso de Maven
 
