@@ -39,4 +39,12 @@ public class ProfessorTest {
 
         assertEquals("Es un profesor.", outputStreamCaptor.toString().trim());
     }
+
+    @Test
+    public void testPrintYearsWithCasting() {
+        Professor professor1 = new TenuredProfessor();
+        ((TenuredProfessor) professor1).printYears();
+
+        assertEquals("Años = 0", outputStreamCaptor.toString().trim());
+    }
 }
